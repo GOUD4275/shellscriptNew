@@ -17,3 +17,5 @@ echo 'clean old content'
 rm -rf /usr/share/nginx/html/* &>>LOG_FILE
 
 curl -s -l -o https://www.free-css.com/assets/files/free-css-templates/download/page296/healet.zip
+
+unzip healet*
