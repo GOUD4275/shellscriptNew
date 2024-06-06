@@ -1,8 +1,6 @@
 #!/bin/bash
 
-LOG_FILE=/tmp/roboshop.log
-
-rm -f /tmp/roboshop.logLOG_FILE
+source components/common.sh
 
 echo "Installing Nginx"
 
