@@ -20,8 +20,8 @@ fi
 echo 'clean old content'
 rm -rf /usr/share/nginx/html/* &>>LOG_FILE
 
-wget https://www.free-css.com/assets/files/free-css-templates/download/page296/healet.zip
+wget https://www.free-css.com/assets/files/free-css-templates/download/page296/healet.zip &>>LOG_FILE
 
-unzip -o healet*
+unzip -o healet* &>>LOG_FILE
 
-cp -r healet-html* /usr/share/nginx/html/index.html >>LOG_FILE
+cp -r healet-html* /usr/share/nginx/html/index.html &>>LOG_FILE
