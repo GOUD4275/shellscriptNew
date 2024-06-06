@@ -1,0 +1,8 @@
+components/frontend.sh: line 7: sudo: command not found
+components/frontend.sh: line 9: systemctl: command not found
+components/frontend.sh: line 12: systemctl: command not found
+components/frontend.sh: line 21: wget: command not found
+unzip:  cannot find or open healet*, healet*.zip or healet*.ZIP.
+
+No zipfiles found.
+cp: cannot stat 'healet-html*': No such file or directory
