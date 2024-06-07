@@ -1,0 +1,10 @@
+#!/bin/bash
+naresh
+goud
+nareshgoud
+devops
+aws
+awsdevops
+bangalore
+hyderabad
+notice
